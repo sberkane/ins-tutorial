@@ -1,0 +1,5 @@
+/results/
+*.asv
+*.autosave
+.DS_Store
+matlab_crash_dump.*

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this software release and the accompanying tutorial."
+type: software
+title: "Tutorial on Aided Inertial Navigation Systems: Reproduction Code"
+authors:
+  - family-names: Berkane
+    given-names: Soulaimane
+version: 1.0.0
+license: MIT
+date-released: 2026-10-12
+url: "https://github.com/sberkane/ins-tutorial"
+repository-code: "https://github.com/sberkane/ins-tutorial"
